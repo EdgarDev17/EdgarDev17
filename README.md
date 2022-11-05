@@ -1,14 +1,14 @@
 # Hi 👋 My name is Edgardo Rodriguez
 
-## Web Engineer
+## Software Developer
 
 <br>
 
-I'm a software engineer who is constantly learning about how to enhance my development skills to build scaleable software and build a better user experience.
+I'm a software developer who is constantly learning about how to enhance my development skills to build scaleable software and build a better user experience.
 
 I'm focusing on web development, some technologies I enjoy working with include ReactJS, NodeJS, Python, MySQL, and MongoDB. I like to challenge myself to learn new technologies and I like sharing what I learned with other people. 😀
 
-🖥️  Check out my portfolio at [EdgarDev Portfolio](http://portfolio-eddev.vercel.app/)
+🖥️  Check out my portfolio at https://edgar-web.vercel.app/
 
 ### Languages, frameworks and tools 😎
 
